@@ -1,0 +1,1 @@
+"Essa aula foi utilizada para nos mostrar uma forma de desenvolver um futuro trabalho, criando o próprio currículo e adicionando-o a um documento HTML e CSS para a criação de um site.
