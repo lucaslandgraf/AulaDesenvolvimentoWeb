@@ -1,0 +1,15 @@
+h1{
+    text-align: left;
+}
+
+#beleza{
+    background-color: green;
+    width: 70%;
+    margin: 0 auto;
+    padding: 3%;
+}
+
+.quebralinha{
+    display: block;
+    margin-bottom: 1%;
+}
